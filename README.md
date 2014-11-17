@@ -1,8 +1,7 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>One Month Rails</title>
+	<title></title>
 </head>
 <body>
 	<h1>One Month Rails</h1>
