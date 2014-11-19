@@ -13,6 +13,8 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
 gem 'bootstrap-sass'
 gem 'devise'
+gem 'hirb'
+gem 'awesome_print'
 
 group :development, :test do
      gem 'sqlite3'
