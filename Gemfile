@@ -16,6 +16,7 @@ gem 'devise'
 gem 'hirb'
 gem 'awesome_print'
 gem 'paperclip'
+gem 'aws-sdk'
 
 group :development, :test do
      gem 'sqlite3'
