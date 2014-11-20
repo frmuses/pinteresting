@@ -15,6 +15,7 @@ gem 'bootstrap-sass'
 gem 'devise'
 gem 'hirb'
 gem 'awesome_print'
+gem 'paperclip'
 
 group :development, :test do
      gem 'sqlite3'
