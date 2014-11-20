@@ -24,7 +24,7 @@ class PinsController < ApplicationController
   end
 
   def create
-    @pin = current_user.pins.build(pin_params)
+    @pin = Pin.new(pin_params)
     @pin.save
     respond_with(@pin)
   end
